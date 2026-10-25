@@ -14,7 +14,7 @@
 | E | Magic Numbers | Codeforces 628D | [628D](https://codeforces.com/problemset/problem/628/D) | **цифровая ДП** | 1800 | — |
 | F | Distance in Tree | Codeforces 161D | [161D](https://codeforces.com/problemset/problem/161/D) | ДП по дереву | 1800 | — |
 | G | RBS | Southern & Volga Qualifier 2021-22 | [104015L](https://codeforces.com/gym/104015/problem/L) | ДП по подмножествам | 1900 | 114 |
-| H | Tree problem | Central Russia 2024 | [106035G](https://codeforces.com/gym/106035/problem/G) | DSU на дереве | 2000 | 243 |
+| H | Tree problem | Central Russia 2024 | [106035G](https://codeforces.com/gym/106035/problem/G) | СНМ на дереве | 2000 | 243 |
 | I | Roman and Numbers | Codeforces 401D | [401D](https://codeforces.com/problemset/problem/401/D) | маска + остаток | 2000 | — |
 
 Источники: 106189 — Central Russia Regional 2025, 104015 — Southern & Volga
